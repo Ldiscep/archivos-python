@@ -7,3 +7,5 @@ print(string)
 
 string=string.capitalize()
 print(string)
+
+#sasasdasfajsfbaosigbv ahbsjipghakshogu´jabhvgio
