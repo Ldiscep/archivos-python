@@ -22,3 +22,6 @@ print(v[0:4]) # [1 0 3 5]
 print(v[1:4]) # [0 3 5]
 print(v[3:-1]) # [5 9 4 0 9 1]
 print(v[3:]) # [5 9 4 0 9 1 0]
+print(v[-4:]) # [9 1 0]
+
+#En general, los vectores funcionan como las listas de python, pero con muchas más funcionalidades y optimizaciones.
