@@ -1,0 +1,5 @@
+-Manejo de archivos
+-Algoritmos de búsqueda (lineal y binaria)
+-complejidad
+-Algoritmos ordenamiento
+-Recursión
